@@ -1,0 +1,14 @@
+[
+    "index.md",
+    "considerations.md",
+    "example-html.md",
+    "polyfill-features.md",
+    "create-content-agnostic-components.md",
+    "create-content-agnostic-components-2.md",
+    "modify-input.md",
+    "create-doubles.md",
+    "directive-as-a-template.md",
+    "directive-as-a-template-css.md",
+    "custom-template.md",
+    "summary.md"
+]
